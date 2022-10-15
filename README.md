@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Julien Nadeau Carrière (@JulNadeauCA). I work at https://csoft.net and https://ElectronTubeStore.com.
+- 👀 I’m interested in graphics, interface design, electronic and mechanical engineering, physics and sciences in general.
+- 🌱 I’m currently learning Chinese, horticulture and drums.
+- 💞️ I’m looking to collaborate with people interested in writing useful free open-source software or providing technology (hosting, web sites, applications) to charitable causes.
+- 📫 You can reach me by e-mail at vedge@csoft.net, or on Discord (I'm vedge@) at https://libagar.org/discord.
+
+<!---
+JulNadeauCA/JulNadeauCA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
