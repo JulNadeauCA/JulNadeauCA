@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Chinese, horticulture and drums.
 - 💞️ I’m looking to collaborate with people interested in writing useful free open-source software or providing technology (hosting, web sites, applications) to charitable causes.
 - :coffee: If you want to buy me coffee, here is my Amazon Wishlist: https://a.co/ffs0vLI.
+- 💸 Bitcoin donations are welcome: Nesbe34Ghqf15DW2scfdwRZqRuAckS58R.
 - 📫 You can reach me by e-mail at vedge@csoft.net, or on Discord (I'm vedge@) at https://libagar.org/discord.
 
 <!---
